@@ -29,4 +29,4 @@ Comando para levantar el servidor: npm run serve
 PD: me costo identificar la API de los índices, la verdad es que no sabia si tenia que hacerlo con CORS para acceder al http específico del índice, o para crear mi propio JSON con los datos explícitos que tambien requiere de CORS. La api que utilice, NO me trae errores en la console.
 
 Actualizacion
-PD2: En la console no encontraba el link de La API que utilize "https://startup.bolsadesantiago.com/api/consulta/TickerOndemand/getIndices?access_token=ADB7E0D67F4143AF8DCF6C9B8084E02E" 
+PD2: En la console no encontro el link de La API que utilize "https://startup.bolsadesantiago.com/api/consulta/TickerOndemand/getIndices?access_token=ADB7E0D67F4143AF8DCF6C9B8084E02E" , me faltaron las horas que perdí.
